@@ -4,11 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Design Verification Engineer
 ----------------------------
 
-Currently working at Continental Automotive.
-
-I have 3 years of Design Verification experience spanning across Automotive ICs.
-
-Well versed with SystemVerilog and UVM.
+SystemVerilog | UVM | SVA | Constraint-Driven Randomization 
 
 * 🌍  I'm based in Bengaluru, Karnataka
 * ✉️  You can contact me at [arunbelamge@gmail.com](mailto:arunbelamge@gmail.com)
