@@ -5,6 +5,7 @@ Design Verification Engineer
 ----------------------------
 
 SystemVerilog | UVM | SVA | Constraint-Driven Randomization 
+SoC Benchmarking | FPGA Prototyping | Baremetal C
 
 * 🌍  I'm based in Bengaluru, Karnataka
 * ✉️  You can contact me at [arunbelamge@gmail.com](mailto:arunbelamge@gmail.com)
